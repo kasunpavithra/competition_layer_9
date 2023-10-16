@@ -1,0 +1,46 @@
+Label_1
+Best params for label_1 with n_comp 0.97: {'C': 95, 'gamma': 0.0014641157902710025, 'kernel': 'rbf'}
+Best score for label_1 with n_comp 0.97: 0.9559128978224456
+Best params for label_1 with n_comp 0.98: {'C': 95, 'gamma': 0.0014641157902710025, 'kernel': 'rbf'}
+Best score for label_1 with n_comp 0.98: 0.9564824120603014
+Best params for label_1 with n_comp 0.99: {'C': 95, 'gamma': 0.0014641157902710025, 'kernel': 'rbf'}
+Best score for label_1 with n_comp 0.99: 0.9569849246231156
+Best params for label_1 with n_comp None: {'C': 95, 'gamma': 0.0014641157902710025, 'kernel': 'rbf'}
+Best score for label_1 with n_comp None: 0.957386934673367
+
+Label_2
+initial train set shape=(28040, 768)
+Resampled train set shape=(28040, 768)
+No of new coums is 401.
+Best params for label_2 with n_comp 0.97: {'C': 95, 'class_weight': 'balanced', 'gamma': 0.0014641157902710025, 'kernel': 'rbf'}
+Best score for label_2 with n_comp 0.97: 0.7066012090885104
+No of new coums is 468.
+
+Label_3
+No of new coums is 381.
+initial train set shape=(28520, 768)
+Resampled train set shape=(45592, 768)
+No of new coums is 381.
+Best params for label_3 with n_comp 0.97: {'C': 95, 'gamma': 0.0014641157902710025, 'kernel': 'rbf'}
+Best score for label_3 with n_comp 0.97: 0.9980579358438961
+No of new coums is 450.
+Best params for label_3 with n_comp 0.98: {'C': 95, 'gamma': 0.0014641157902710025, 'kernel': 'rbf'}
+Best score for label_3 with n_comp 0.98: 0.9980147765862354
+No of new coums is 550.
+initial train set shape=(28520, 768)
+Resampled train set shape=(279132, 768)
+No of new coums is 341.
+initial train set shape=(28520, 768)
+Resampled train set shape=(28520, 768)
+No of new coums is 401.
+
+Label_4
+initial train set shape=(28520, 768)
+Resampled train set shape=(28520, 768)
+No of new coums is 401.
+Best params for label_4 with n_comp 0.97: {'C': 95, 'class_weight': 'balanced', 'gamma': 0.0014641157902710025, 'kernel': 'rbf'}
+Best score for label_4 with n_comp 0.97: 0.9540143491629655
+No of new coums is 468.
+Best params for label_4 with n_comp 0.98: {'C': 95, 'class_weight': 'balanced', 'gamma': 0.0014641157902710025, 'kernel': 'rbf'}
+Best score for label_4 with n_comp 0.98: 0.954629313290058
+No of new coums is 565.
